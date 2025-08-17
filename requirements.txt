@@ -1,0 +1,5 @@
+openai
+arxiv
+python-dotenv
+autogen-agentchat
+autogen-core
